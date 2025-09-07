@@ -18,6 +18,6 @@
 ## 🚀 How to run
 1. Clone the repo:
    ```bash
-   git clone https://github.com/USERNAME/REPO_NAME.git
-   cd REPO_NAME
+   git clone https://github.com/Aalokvarshney11/Rock_Paper_Scissors.git
+   cd Game.py
 
