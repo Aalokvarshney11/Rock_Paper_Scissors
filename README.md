@@ -1,6 +1,7 @@
-![My Photo](assets/rock.jpg)
-<p align="center">
-  <img src="assets/rock.jpg" alt="My Photo" width="200"/>
+<p>
+  ![My Photo](assets/rock.jpg)
+ align="center">
+  <img src="assets/rock.jpg" alt="My Photo" width="400"/>
 </p>
 
 
