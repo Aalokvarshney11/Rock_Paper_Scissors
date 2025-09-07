@@ -1,6 +1,5 @@
-<p>
- align="center">
-  <img src="assets/rock.jpg" alt="My Photo" width="400"/>
+<p align="center">
+  <img src="assets/rock.jpg" alt="My Photo" width="400"/ >
 </p>
 
 
