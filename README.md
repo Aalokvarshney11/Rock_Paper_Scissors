@@ -1,3 +1,11 @@
+![My Photo](assets/rock.jpg)
+<p align="center">
+  <img src="assets/rock.jpg" alt="My Photo" width="200"/>
+</p>
+
+
+
+
 # 🎉 Rock • Paper • Scissors — Python Edition 🐍✨
 
 
